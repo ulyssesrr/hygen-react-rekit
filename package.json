@@ -1,0 +1,9 @@
+{
+  "name": "hygen-react-rekit",
+  "description": "React Rekit-inspired code generators using Hygen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ulyssesrr/hygen-react-rekit.git",
+  "author": "Ulysses R. Ribeiro <ulyssesrr@gmail.com>",
+  "license": "MIT"
+}
